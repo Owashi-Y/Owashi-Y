@@ -1,14 +1,14 @@
-### Hi there 👋
+<h1 alicin="center"> Hi🐥</h1>
 
 
 ## Profile
 
 ### Language
-  -PHP
+  -PHP<br>
   -JavaScript
 
 ### Framework
-  -Laravel
+  -Laravel<br>
   -CodeIgniter
 
 
