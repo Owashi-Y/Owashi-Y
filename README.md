@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-Profile
+##Profile
 
-Language
+### Language
 -PHP
 -JavaScript
 
-Framework
+### Framework
 -Laravel
 -CodeIgniter
 
